@@ -44,7 +44,7 @@ When the build finishes, Vercel gives you a URL like:
 https://my-project-abc123.vercel.app
 ```
 
-That's it. Your project is live on the internet. Share it with anyone.
+Your project is live. Share the link with anyone.
 
 ---
 
@@ -60,7 +60,7 @@ git push
 
 Vercel will detect the push and automatically update your live site in about 60 seconds.
 
-No manual deploys. No extra commands. Just push.
+No manual deploys, no extra commands. Push and you're done.
 
 ---
 
@@ -72,7 +72,7 @@ If you want a proper domain (like `myproject.com` instead of the Vercel URL):
 2. In Vercel, go to your project → **Settings → Domains**
 3. Add your domain and follow the DNS instructions
 
-Vercel handles HTTPS automatically — your site will be secure by default.
+Vercel handles HTTPS automatically. Your site is secure by default.
 
 ---
 
@@ -96,7 +96,7 @@ Keep building. The loop is the same every time:
 3. Preview at `localhost:3000`
 4. Commit and push when it looks right
 
-Every project you build from here uses the same four steps. You just get faster.
+Every project you build from here uses the same four steps. You get faster each time.
 
 ---
 

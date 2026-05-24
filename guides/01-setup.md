@@ -1,6 +1,6 @@
 # Guide 1: Setup
 
-> One-time. You only do this once, ever.
+> One-time setup. Never again.
 
 This guide gets your computer ready to build. It takes about 20–30 minutes. After this, you can start any new project in under a minute.
 
@@ -12,7 +12,7 @@ This guide gets your computer ready to build. It takes about 20–30 minutes. Af
 |---|---|---|
 | Node.js | The engine that runs JavaScript on your computer | Next.js (your building tool) needs it |
 | Git | A save system for code | Tracks every version of your project |
-| Claude Code | Your AI coding partner | The thing that actually writes the code |
+| Claude Code | Your AI coding partner | The thing that writes the code |
 | VS Code | A text editor built for code | Where you'll review and manage files |
 
 ---
@@ -85,7 +85,7 @@ Vercel is where your project will live on the internet. It's free for personal p
 1. Go to [vercel.com](https://vercel.com)
 2. Sign up with your GitHub account (if you don't have GitHub, create one at [github.com](https://github.com) first)
 
-You won't need to do anything in Vercel yet. Just have the account ready.
+You won't need to do anything in Vercel yet. Have the account ready.
 
 ---
 

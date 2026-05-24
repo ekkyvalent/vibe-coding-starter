@@ -2,9 +2,9 @@
 
 > Commit your work. Like saving a document, but smarter.
 
-Git is a version control system. Think of it like Google Docs version history — but for your entire project. Every "save" (called a **commit**) is a snapshot you can go back to at any time.
+Git is a version control system. Think of it like Google Docs version history, but for your entire project. Every "save" (called a **commit**) is a snapshot you can go back to at any time.
 
-You only need three commands. That's it.
+You only need three commands.
 
 ---
 
@@ -37,7 +37,7 @@ Then:
 git add .
 ```
 
-This stages all your files — telling Git "I want to include everything in my next save."
+This stages all your files, telling Git to include everything in your next save.
 
 Then:
 
@@ -107,7 +107,7 @@ Future you will thank you.
 
 ## When to commit
 
-A good rule of thumb: commit whenever you finish something that's working. After you add a new section, fix something, or get a feature working the way you want — commit it.
+Commit whenever you finish something that's working. After you add a new section, fix something, or get a feature working the way you want, commit it.
 
 You can't "over-commit." More saves = more safety net.
 

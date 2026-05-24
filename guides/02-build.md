@@ -2,7 +2,7 @@
 
 > Tell the AI what you want. Watch it build.
 
-This is where the magic happens. You're going to create a real Next.js project and use Claude Code to build your first page — by describing it in plain English.
+You're going to create a real Next.js project and tell Claude Code what to build, in plain English.
 
 ---
 
@@ -19,7 +19,7 @@ cd Desktop
 npx create-next-app@latest my-project --typescript --tailwind --eslint --app --no-src-dir --import-alias "@/*"
 ```
 
-When it asks questions, just press `Enter` to accept all the defaults.
+When it asks questions, press `Enter` to accept all the defaults.
 
 This creates a folder called `my-project` on your Desktop with a working Next.js app inside.
 
