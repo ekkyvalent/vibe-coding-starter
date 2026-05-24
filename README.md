@@ -1,22 +1,20 @@
 # Vibe Coding Starter
 
-A practical guide for non-technical people who want to build real things with AI — and actually ship them.
+A practical guide for non-technical people who want to build and ship real things with AI.
 
-No prior coding experience needed. You don't need to learn how to code. You need to learn how to **direct**.
+No prior coding experience needed. Your job is to **direct**, not to write code.
 
 ---
 
 ## The mental shift
 
-Building with AI in 2025 is less like writing code and more like directing a very capable contractor:
+Building with AI in 2025 means directing a capable contractor:
 
 - **You** describe what you want clearly
 - **The AI** writes the code
 - **You** review, test, and say "yes" or "change this"
-- **Git** is just a save button with history
-- **Vercel** is just a publish button
-
-That's it. That's the whole model.
+- **Git** is a save button with history
+- **Vercel** is a publish button
 
 ---
 
@@ -55,9 +53,7 @@ Don't know what to tell the AI? Use one of these ready-made starting prompts:
 
 ## Who made this
 
-Built by [Ekky](https://github.com/ekkypramana) — a non-technical founder who switched from CS to marketing and came back to building through AI tools. These guides are written for people in my circle who keep saying *"I want to build something but I don't know where to start."*
-
-This is where you start.
+Built by [Ekky](https://github.com/ekkypramana), a non-technical founder who switched from CS to marketing and came back to building through AI tools. I wrote these for people in my circle who kept saying they wanted to build something but didn't know where to start.
 
 ---
 

@@ -40,7 +40,7 @@ Use the existing Next.js app structure. Put everything in app/page.tsx. Use Tail
 
 ## How to fill it in
 
-Fill in each field with your real information. Skip any sections that don't apply — just remove them from the prompt.
+Fill in each field with your real information. Skip any sections that don't apply. Remove them from the prompt before pasting.
 
 ---
 

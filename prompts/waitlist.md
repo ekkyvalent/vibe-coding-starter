@@ -42,7 +42,7 @@ Replace everything in `[square brackets]`:
 
 ## Adding real email collection later
 
-Once you're ready to actually collect emails, ask Claude:
+When you're ready to collect emails for real, ask Claude:
 
 *"I want to collect emails for real. Integrate this form with [Mailchimp / ConvertKit / Resend] so submissions are saved."*
 
