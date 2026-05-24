@@ -8,7 +8,7 @@ No prior coding experience needed. Your job is to **direct**, not to write code.
 
 ## The mental shift
 
-Building with AI in 2025 means directing a capable contractor:
+Building with AI in 2026 means directing a capable contractor:
 
 - **You** describe what you want clearly
 - **The AI** writes the code
